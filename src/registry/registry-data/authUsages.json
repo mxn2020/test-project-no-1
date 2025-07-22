@@ -1,0 +1,222 @@
+[
+  {
+    "id": "dashboard-loading",
+    "definitionId": "dev-container",
+    "name": "Dashboard Loading",
+    "description": "Loading spinner shown while checking authentication status",
+    "filePath": "src/components/auth/Dashboard.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/components/auth/Dashboard.tsx",
+    "category": "feedback",
+    "semanticTags": ["dashboard", "loading", "authentication", "spinner"]
+  },
+  {
+    "id": "dashboard-unauthorized",
+    "definitionId": "dev-container",
+    "name": "Dashboard Unauthorized",
+    "description": "Access denied page for unauthenticated users",
+    "filePath": "src/components/auth/Dashboard.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/components/auth/Dashboard.tsx",
+    "category": "page",
+    "semanticTags": ["dashboard", "unauthorized", "access-denied", "auth"]
+  },
+  {
+    "id": "dashboard-page",
+    "definitionId": "dev-container",
+    "name": "Dashboard Page",
+    "description": "Main dashboard page wrapper",
+    "filePath": "src/components/auth/Dashboard.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/components/auth/Dashboard.tsx",
+    "category": "page",
+    "semanticTags": ["dashboard", "page", "wrapper", "main"]
+  },
+  {
+    "id": "dashboard-header",
+    "definitionId": "dev-header",
+    "name": "Dashboard Header",
+    "description": "Dashboard header with title and logout button",
+    "filePath": "src/components/auth/Dashboard.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/components/auth/Dashboard.tsx",
+    "category": "layout",
+    "semanticTags": ["dashboard", "header", "logout", "title"]
+  },
+  {
+    "id": "dashboard-content",
+    "definitionId": "dev-div",
+    "name": "Dashboard Content",
+    "description": "Main content area of dashboard",
+    "filePath": "src/components/auth/Dashboard.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/components/auth/Dashboard.tsx",
+    "category": "layout",
+    "semanticTags": ["dashboard", "content", "main", "area"]
+  },
+  {
+    "id": "user-profile-card",
+    "definitionId": "dev-card",
+    "name": "User Profile Card",
+    "description": "User profile information card",
+    "filePath": "src/components/auth/Dashboard.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/components/auth/Dashboard.tsx",
+    "category": "data-display",
+    "semanticTags": ["user", "profile", "card", "information"]
+  },
+  {
+    "id": "dashboard-stats",
+    "definitionId": "dev-div",
+    "name": "Dashboard Stats",
+    "description": "Dashboard statistics and welcome content section",
+    "filePath": "src/components/auth/Dashboard.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/components/auth/Dashboard.tsx",
+    "category": "data-display",
+    "semanticTags": ["dashboard", "stats", "statistics", "welcome"]
+  },
+  {
+    "id": "login-page",
+    "definitionId": "dev-container",
+    "name": "Login Page",
+    "description": "Main login page container",
+    "filePath": "src/components/auth/Login.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/components/auth/Login.tsx",
+    "category": "page",
+    "semanticTags": ["login", "page", "authentication", "container"]
+  },
+  {
+    "id": "login-header",
+    "definitionId": "dev-div",
+    "name": "Login Header",
+    "description": "Login page header with title and description",
+    "filePath": "src/components/auth/Login.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/components/auth/Login.tsx",
+    "category": "layout",
+    "semanticTags": ["login", "header", "title", "description"]
+  },
+  {
+    "id": "login-error",
+    "definitionId": "dev-alert",
+    "name": "Login Error",
+    "description": "Error alert display container",
+    "filePath": "src/components/auth/Login.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/components/auth/Login.tsx",
+    "category": "feedback",
+    "semanticTags": ["login", "error", "alert", "feedback"]
+  },
+  {
+    "id": "social-login-buttons",
+    "definitionId": "dev-div",
+    "name": "Social Login Buttons",
+    "description": "Container for social login buttons",
+    "filePath": "src/components/auth/Login.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/components/auth/Login.tsx",
+    "category": "interactive",
+    "semanticTags": ["social", "login", "buttons", "oauth"]
+  },
+  {
+    "id": "login-divider",
+    "definitionId": "dev-div",
+    "name": "Login Divider",
+    "description": "Visual divider between social and email login",
+    "filePath": "src/components/auth/Login.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/components/auth/Login.tsx",
+    "category": "ui",
+    "semanticTags": ["login", "divider", "separator", "visual"]
+  },
+  {
+    "id": "login-form",
+    "definitionId": "dev-form",
+    "name": "Login Form",
+    "description": "Email/password login form container",
+    "filePath": "src/components/auth/Login.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/components/auth/Login.tsx",
+    "category": "form",
+    "semanticTags": ["login", "form", "email", "password"]
+  },
+  {
+    "id": "login-footer",
+    "definitionId": "dev-div",
+    "name": "Login Footer",
+    "description": "Footer with registration link",
+    "filePath": "src/components/auth/Login.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/components/auth/Login.tsx",
+    "category": "layout",
+    "semanticTags": ["login", "footer", "registration", "link"]
+  },
+  {
+    "id": "register-page",
+    "definitionId": "dev-container",
+    "name": "Register Page",
+    "description": "Main registration page container",
+    "filePath": "src/components/auth/Register.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/components/auth/Register.tsx",
+    "category": "page",
+    "semanticTags": ["register", "page", "registration", "container"]
+  },
+  {
+    "id": "register-header",
+    "definitionId": "dev-div",
+    "name": "Register Header",
+    "description": "Registration page header with title and description",
+    "filePath": "src/components/auth/Register.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/components/auth/Register.tsx",
+    "category": "layout",
+    "semanticTags": ["register", "header", "title", "description"]
+  },
+  {
+    "id": "register-error",
+    "definitionId": "dev-alert",
+    "name": "Register Error",
+    "description": "Error alert display container",
+    "filePath": "src/components/auth/Register.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/components/auth/Register.tsx",
+    "category": "feedback",
+    "semanticTags": ["register", "error", "alert", "feedback"]
+  },
+  {
+    "id": "social-register-buttons",
+    "definitionId": "dev-div",
+    "name": "Social Register Buttons",
+    "description": "Container for social registration buttons",
+    "filePath": "src/components/auth/Register.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/components/auth/Register.tsx",
+    "category": "interactive",
+    "semanticTags": ["social", "register", "buttons", "oauth"]
+  },
+  {
+    "id": "register-divider",
+    "definitionId": "dev-div",
+    "name": "Register Divider",
+    "description": "Visual divider between social and email registration",
+    "filePath": "src/components/auth/Register.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/components/auth/Register.tsx",
+    "category": "ui",
+    "semanticTags": ["register", "divider", "separator", "visual"]
+  },
+  {
+    "id": "register-form",
+    "definitionId": "dev-form",
+    "name": "Register Form",
+    "description": "Email/password registration form container",
+    "filePath": "src/components/auth/Register.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/components/auth/Register.tsx",
+    "category": "form",
+    "semanticTags": ["register", "form", "email", "password"]
+  },
+  {
+    "id": "register-footer",
+    "definitionId": "dev-div",
+    "name": "Register Footer",
+    "description": "Footer with login link",
+    "filePath": "src/components/auth/Register.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/components/auth/Register.tsx",
+    "category": "layout",
+    "semanticTags": ["register", "footer", "login", "link"]
+  },
+  {
+    "id": "protected-route-loading",
+    "definitionId": "dev-container",
+    "name": "Protected Route Loading",
+    "description": "Loading spinner while checking authentication for protected routes",
+    "filePath": "src/components/auth/ProtectedRoute.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/components/auth/ProtectedRoute.tsx",
+    "category": "feedback",
+    "semanticTags": ["protected", "route", "loading", "authentication"]
+  }
+]

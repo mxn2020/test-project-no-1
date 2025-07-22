@@ -1,0 +1,293 @@
+[
+  {
+    "id": "stats-section",
+    "definitionId": "dev-container",
+    "name": "Stats Section",
+    "description": "Statistics display section with build metrics",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "layout",
+    "semanticTags": ["stats", "metrics", "performance"]
+  },
+  {
+    "id": "stats-content",
+    "definitionId": "dev-section",
+    "name": "Stats Content",
+    "description": "Statistics Section showing performance metrics",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "layout",
+    "semanticTags": ["stats", "content", "section"]
+  },
+  {
+    "id": "stats-grid",
+    "definitionId": "dev-div",
+    "name": "Stats Grid",
+    "description": "Grid container for statistics cards",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "layout",
+    "semanticTags": ["stats", "grid", "container"]
+  },
+  {
+    "id": "stat-card-0",
+    "definitionId": "dev-card",
+    "name": "Build Time Stat Card",
+    "description": "Statistical card showing Build Time: < 2s",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "data-display",
+    "semanticTags": ["card", "stats", "build", "performance"]
+  },
+  {
+    "id": "stat-card-1",
+    "definitionId": "dev-card",
+    "name": "Bundle Size Stat Card",
+    "description": "Statistical card showing Bundle Size: < 50KB",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "data-display",
+    "semanticTags": ["card", "stats", "bundle", "size"]
+  },
+  {
+    "id": "stat-card-2",
+    "definitionId": "dev-card",
+    "name": "TypeScript Stat Card",
+    "description": "Statistical card showing TypeScript: 100%",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "data-display",
+    "semanticTags": ["card", "stats", "typescript", "coverage"]
+  },
+  {
+    "id": "stat-card-3",
+    "definitionId": "dev-card",
+    "name": "Performance Stat Card",
+    "description": "Statistical card showing Performance: A+",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "data-display",
+    "semanticTags": ["card", "stats", "performance", "grade"]
+  },
+  {
+    "id": "features-section",
+    "definitionId": "dev-container",
+    "name": "Features Section",
+    "description": "Feature highlights with icons and descriptions",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "layout",
+    "semanticTags": ["features", "highlights", "benefits"]
+  },
+  {
+    "id": "feature-card-0",
+    "definitionId": "dev-card",
+    "name": "Lightning Fast Feature Card",
+    "description": "Feature card highlighting lightning fast development",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "data-display",
+    "semanticTags": ["card", "feature", "speed", "vite"]
+  },
+  {
+    "id": "feature-card-1",
+    "definitionId": "dev-card",
+    "name": "MongoDB + Prisma Feature Card",
+    "description": "Feature card highlighting database integration",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "data-display",
+    "semanticTags": ["card", "feature", "database", "mongodb", "prisma"]
+  },
+  {
+    "id": "feature-card-2",
+    "definitionId": "dev-card",
+    "name": "TypeScript Ready Feature Card",
+    "description": "Feature card highlighting TypeScript support",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "data-display",
+    "semanticTags": ["card", "feature", "typescript", "types"]
+  },
+  {
+    "id": "feature-card-3",
+    "definitionId": "dev-card",
+    "name": "Deploy Anywhere Feature Card",
+    "description": "Feature card highlighting deployment flexibility",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "data-display",
+    "semanticTags": ["card", "feature", "deployment", "hosting"]
+  },
+  {
+    "id": "tech-stack-section",
+    "definitionId": "dev-container",
+    "name": "Tech Stack Section",
+    "description": "Technology stack showcase with logos",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "layout",
+    "semanticTags": ["tech", "stack", "technologies"]
+  },
+  {
+    "id": "tech-badge-0",
+    "definitionId": "dev-badge",
+    "name": "Vite Technology Badge",
+    "description": "Technology badge for Vite",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "data-display",
+    "semanticTags": ["badge", "tech", "vite", "build"]
+  },
+  {
+    "id": "tech-badge-1",
+    "definitionId": "dev-badge",
+    "name": "React Technology Badge",
+    "description": "Technology badge for React",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "data-display",
+    "semanticTags": ["badge", "tech", "react", "framework"]
+  },
+  {
+    "id": "tech-badge-2",
+    "definitionId": "dev-badge",
+    "name": "TypeScript Technology Badge",
+    "description": "Technology badge for TypeScript",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "data-display",
+    "semanticTags": ["badge", "tech", "typescript", "types"]
+  },
+  {
+    "id": "tech-badge-3",
+    "definitionId": "dev-badge",
+    "name": "MongoDB Technology Badge",
+    "description": "Technology badge for MongoDB",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "data-display",
+    "semanticTags": ["badge", "tech", "mongodb", "database"]
+  },
+  {
+    "id": "tech-badge-4",
+    "definitionId": "dev-badge",
+    "name": "Prisma Technology Badge",
+    "description": "Technology badge for Prisma",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "data-display",
+    "semanticTags": ["badge", "tech", "prisma", "orm"]
+  },
+  {
+    "id": "tech-badge-5",
+    "definitionId": "dev-badge",
+    "name": "Tailwind Technology Badge",
+    "description": "Technology badge for Tailwind CSS",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "data-display",
+    "semanticTags": ["badge", "tech", "tailwind", "css"]
+  },
+  {
+    "id": "cta-section",
+    "definitionId": "dev-container",
+    "name": "Call to Action Section",
+    "description": "Final call-to-action section with project start buttons",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "layout",
+    "semanticTags": ["cta", "action", "start", "project"]
+  },
+  {
+    "id": "cta-start-project",
+    "definitionId": "dev-button",
+    "name": "Start Project Button",
+    "description": "Primary CTA button to start a new project",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "interactive",
+    "semanticTags": ["button", "cta", "primary", "project"]
+  },
+  {
+    "id": "cta-join-community",
+    "definitionId": "dev-button",
+    "name": "Join Community Button",
+    "description": "Secondary CTA button to join the community",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "interactive",
+    "semanticTags": ["button", "cta", "secondary", "community"],
+    "props": { "variant": "outline" }
+  },
+  {
+    "id": "main-footer",
+    "definitionId": "dev-footer",
+    "name": "Main Footer",
+    "description": "Site footer with links and copyright",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "layout",
+    "semanticTags": ["footer", "links", "copyright"]
+  },
+  {
+    "id": "tech-letter-0",
+    "definitionId": "dev-span",
+    "name": "Vite Tech Letter",
+    "description": "Technology letter V for Vite",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "typography",
+    "semanticTags": ["tech", "letter", "vite", "v"]
+  },
+  {
+    "id": "tech-letter-1",
+    "definitionId": "dev-span",
+    "name": "React Tech Letter",
+    "description": "Technology letter R for React",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "typography",
+    "semanticTags": ["tech", "letter", "react", "r"]
+  },
+  {
+    "id": "tech-letter-2",
+    "definitionId": "dev-span",
+    "name": "TypeScript Tech Letter",
+    "description": "Technology letter T for TypeScript",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "typography",
+    "semanticTags": ["tech", "letter", "typescript", "t"]
+  },
+  {
+    "id": "tech-letter-3",
+    "definitionId": "dev-span",
+    "name": "MongoDB Tech Letter",
+    "description": "Technology letter M for MongoDB",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "typography",
+    "semanticTags": ["tech", "letter", "mongodb", "m"]
+  },
+  {
+    "id": "tech-letter-4",
+    "definitionId": "dev-span",
+    "name": "Prisma Tech Letter",
+    "description": "Technology letter P for Prisma",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "typography",
+    "semanticTags": ["tech", "letter", "prisma", "p"]
+  },
+  {
+    "id": "tech-letter-5",
+    "definitionId": "dev-span",
+    "name": "Tailwind Tech Letter",
+    "description": "Technology letter T for Tailwind",
+    "filePath": "src/pages/Landing.tsx",
+    "repositoryPath": "https://github.com/your-username/geenius-template-vite-react-mongo/blob/main/src/pages/Landing.tsx",
+    "category": "typography",
+    "semanticTags": ["tech", "letter", "tailwind", "t"]
+  }
+]
